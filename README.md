@@ -1,6 +1,6 @@
 # EBU6305
 
-## Group Number: 2020EBU6305G**
+## Group Number: 2023EBU6305G3
 
 ## Project Title: XXXXXXXXXXXXXXXX
 
@@ -16,4 +16,4 @@ Name, BUPT Student Number, QM Student Number, Email
 
 Name, BUPT Student Number, QM Student Number, Email
 
-## Assigned TA: XXXXXXX
+## Assigned TA: Yiding Zhao
