@@ -2,7 +2,7 @@
 
 ## Group Number: 2023EBU6305G3
 
-## Project Title: XXXXXXXXXXXXXXXX
+## Project Title: Dunhuang Travel Guide
 
 ## Members:
 
