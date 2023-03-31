@@ -6,14 +6,14 @@
 
 ## Members:
 
-Name, BUPT Student Number, QM Student Number, Email
+Yuqi Feng, 2020213093, 200977113, 2020213093@bupt.edu.cn
 
-Name, BUPT Student Number, QM Student Number, Email
+Shuhan Xia, 2020213103, 200979003, xiashuhan@bupt.edu.cn
 
-Name, BUPT Student Number, QM Student Number, Email
+Zhengqiao Zhong, 2020213112, 200979174, 1052892871@bupt.edu.cn
 
-Name, BUPT Student Number, QM Student Number, Email
+Qingyuan Bai, 2020213091, 200976817, 2020213091@bupt.edu.cn
 
-Name, BUPT Student Number, QM Student Number, Email
+Ziqi Yuan, 2020213107, 200979449, BYZQT@bupt.edu.cn
 
 ## Assigned TA: Yiding Zhao
