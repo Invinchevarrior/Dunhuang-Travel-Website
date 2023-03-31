@@ -1,3 +1,19 @@
-# Interactive-Media-Group3
-2020213107-Yuan Ziqi
-Yuqi Feng
+# EBU6305
+
+## Group Number: 2020EBU6305G**
+
+## Project Title: XXXXXXXXXXXXXXXX
+
+## Members:
+
+Name, BUPT Student Number, QM Student Number, Email
+
+Name, BUPT Student Number, QM Student Number, Email
+
+Name, BUPT Student Number, QM Student Number, Email
+
+Name, BUPT Student Number, QM Student Number, Email
+
+Name, BUPT Student Number, QM Student Number, Email
+
+## Assigned TA: XXXXXXX
