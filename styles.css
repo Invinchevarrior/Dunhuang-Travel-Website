@@ -1,0 +1,79 @@
+/* styles.css */
+
+/* Reset default padding and margin for <ul> and <li> elements */
+ul, li {
+  padding: 0;
+  margin: 0;
+}
+
+/* Style the navigation bar */
+nav {
+  background-color: #333; /* Set background color */
+}
+
+ul {
+  list-style-type: none; /* Remove bullet points */
+  display: flex; /* Display the list items in a row */
+  justify-content: center; /* Center align the list items horizontally */
+  padding: 10px; /* Add some padding around the list items */
+}
+
+li {
+  margin-right: 10px; /* Add some spacing between list items */
+}
+
+/* Style the navigation links */
+a {
+  color: #fff; /* Set text color */
+  text-decoration: none; /* Remove underline */
+  padding: 8px 16px; /* Add padding around the link text */
+}
+
+/* Style the navigation links on hover */
+a:hover {
+  background-color: #555; /* Change background color on hover */
+}
+
+/* Style the navigation links when active */
+a.active {
+  background-color: #777; /* Change background color when active */
+}
+
+/* Style the header section */
+header {
+  background-image: url('d3.jpg'); /* Set background image */
+  background-size: cover; /* Cover the entire header with the background image */
+  height: 100vh; /* Set height to full viewport height */
+  display: flex; /* Display the header contents in a column */
+  justify-content: center; /* Center align the header contents vertically */
+  align-items: center; /* Center align the header contents horizontally */
+  flex-direction: column; /* Arrange the header contents in a column */
+  text-align: center; /* Center align text in the header */
+  padding: 0 20px; /* Add padding around the header contents */
+}
+
+h1 {
+  font-size: 36px; /* Set font size for the heading */
+  margin-bottom: 10px; /* Add some spacing below the heading */
+}
+
+p {
+  font-size: 18px; /* Set font size for the paragraph */
+  margin-bottom: 20px; /* Add some spacing below the paragraph */
+}
+
+.cta-button {
+  background-color: #007bff; /* Set background color for the call-to-action button */
+  color: #fff; /* Set text color for the button */
+  text-decoration: none; /* Remove underline */
+  padding: 12px 24px; /* Add padding around the button text */
+  font-size: 18px; /* Set font size for the button text */
+  border-radius: 5px; /* Add border radius for rounded corners */
+}
+
+.cta-button:hover {
+  background-color: #0056b3; /* Change background color on hover */
+}
+
+  
+  
